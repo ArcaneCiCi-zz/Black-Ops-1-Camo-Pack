@@ -12,4 +12,4 @@ For those of you who are not aware, when you create a new .iwd file at the end o
 - Drop [this](https://github.com/ohMarcel/Black-Ops-1-Camo-Pack/releases/download/v1.0/iw_42.iwd) IWD file in there, and run Black Ops! To revert it, simply just delete the iw_42.iwd file.
 
 ## Credits
-None of these textures are my own, they are simply one I threw together for a few friends from Gashy's camo pack.
+None of these textures are my own, they are simply some that I threw together for a few friends from Gashy's camo pack.
